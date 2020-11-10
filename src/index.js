@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+
+import "./index.css";
 import SearchMovies from "./searchMovies";
 
 class Main extends React.Component {
